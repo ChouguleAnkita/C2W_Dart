@@ -1,3 +1,4 @@
+//Prolem Statement= Find Factorial of given number  
 void main(){
   int x=6;
   int fact=1;

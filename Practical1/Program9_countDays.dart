@@ -1,5 +1,7 @@
+//Prolem Statement =Count down of days to submit assignment  
+
 void main(){
-  int days=0;
+  int days=7;
 
   while(days>=0){
     if(days!=0){
